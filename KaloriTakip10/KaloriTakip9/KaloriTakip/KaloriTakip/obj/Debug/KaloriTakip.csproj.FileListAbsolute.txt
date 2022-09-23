@@ -1,0 +1,331 @@
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+C:\Users\Buğra Atacan\source\repos\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CopyComplete
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+D:\Windows 10\Desktop\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.MealAdd.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CopyComplete
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.MealAdd.resources
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+D:\Windows 10\Desktop\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.MealAdd.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CopyComplete
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip (1) (1)\KaloriTakip (1)\KaloriTakip\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.MealAdd.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSettings.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Totals.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.MealAdd.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSettings.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CopyComplete
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.DailyReports.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSet.resources
+C:\Users\Enes\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.ComparisonReports.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.ComparisonReports.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.MealAdd.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.DailyReports.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSet.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSettings.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CopyComplete
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.ComparisonReports.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.MealAdd.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.DailyReports.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSet.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSettings.resources
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+D:\Windows 10\Desktop\KaloriTakip7\KaloriTakip7\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.ComparisonReports.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.MealAdd.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.DailyReports.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSet.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSettings.resources
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+C:\Users\Lenovo\Desktop\KaloriProje\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.dll
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.BLL.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.DAL.dll.config
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\KaloriTakip.Model.pdb
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Calculator.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.ComparisonReports.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Form1.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Introduction.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Login.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.MealAdd.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Properties.Resources.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.Register.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.DailyReports.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSet.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.UserSettings.resources
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.csproj.CopyComplete
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.exe
+C:\Users\Enes\Desktop\DiyetProje\KaloriTakip10\KaloriTakip9\KaloriTakip\KaloriTakip\obj\Debug\KaloriTakip.pdb
